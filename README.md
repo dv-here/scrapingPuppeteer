@@ -1,2 +1,2 @@
 # scrapingPuppeteer
-Web scraping using puppeteer
+Web scraping application using puppeteer api.

@@ -1,0 +1,22 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "web scraping app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dv-here/scrapingPuppeteer.git"
+  },
+  "author": "divyanshu rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dv-here/scrapingPuppeteer/issues"
+  },
+  "homepage": "https://github.com/dv-here/scrapingPuppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
